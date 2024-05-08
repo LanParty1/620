@@ -1,0 +1,5 @@
+Graduate project with financial data.
+Gather data from Yahoo finance
+
+Compare, research, or prove.
+
